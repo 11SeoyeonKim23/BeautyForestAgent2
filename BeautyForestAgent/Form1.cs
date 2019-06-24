@@ -92,7 +92,6 @@ namespace BeautyForestAgent
             FormAdd m = new FormAdd();
             m.Title = "추가 창띄우기";
             m.ShowDialog();
-            statusMessage.Text = "프로필 추가";
 
         }
     }
